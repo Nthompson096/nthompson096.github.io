@@ -19,5 +19,5 @@ published: true
   Such as a BBS or Bultin Board System and old telephony/primitive networking such as hubs. <BR>
   anyway long story short IPv4 was created because of ARPANET, ARPANET is govt, govt saw profit over outcome and rest is history. <br>
   Soon after the IETF saw issues with Ipv4 and thought about implementing IPv6 which was developed in the 1990's, Later on the late 2010's the world saw an IPv4 address exhaustion and ISP's/IETF are urging people to adapt to IPV6 sooner than later. <br>
-This chart I've linked here should help along with any referneces I searched up myself.</p>
+This chart I've linked here should help along with any references I searched up myself.</p>
 </body>
