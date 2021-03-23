@@ -2,7 +2,7 @@
 layout: post
 title:  "Ipv4/ipv6"
 summary: |-
-      <h1>An Ipv4/ipv6 chart and a brief explanation of ip addressing due to an existential crisis and staying late at night</h1>
+      <h3>An Ipv4/ipv6 chart and a brief explanation of ip addressing due to an existential crisis and staying late at night</h3>
 date:   2021-3-4 0:0 PM
 categories: PowerShell DNS
 description: "A few days worth of researching ip addressing, relearning ip addressing."
