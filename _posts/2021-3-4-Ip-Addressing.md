@@ -13,7 +13,7 @@ published: true
 ---
 <body>
   <p>
-    <a href="#">My Ipv4/6 spread sheet along with the OSI model.</a>
+    <a href="https://mega.nz/file/bxwlGagA#qcVS3ED30AZCcA_BYJVQoFXvWeYs1H6U1_lwkhMhvAU">My Ipv4/6 spread sheet along with the OSI model, not compatable with excel; only sheets.</a>
   </p>
   <p>Ipv4 Addressing was introduced in the 1980's as a way for computers to communicate with eachohter during the early days of the internet, in the old days people used technolgies
   Such as a BBS or Bultin Board System and old telephony/primitive networking such as hubs. <BR>
