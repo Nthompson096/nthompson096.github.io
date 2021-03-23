@@ -4,7 +4,7 @@ title:  "A few days worth of researching ip addressing, relearning ip addressing
 summary: |-
       <p>Ipv4 Addressing was introduced in the 1980's as a way for computers to communicate with eachohter during the early days of the internet, in the old days people used technolgies
       Such as a BBS or Bultin Board System and old telephony/primitive networking such as hubs</p>
-date:   2021-3-4 0:0 PM
+date:   2021-3-23 7:05 PM
 categories: Ip-Addressing, Networking
 description: "A few days worth of researching ip addressing, relearning ip addressing."
 #image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
