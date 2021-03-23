@@ -10,8 +10,8 @@ show_sidebar: true
 hide_hero: false
 ---
 <h1>Nicholas Thompson:</h1>
-<p>born and raised in Pennsylvania, Graduate of<br>
-ErieIT in Erie with my Network Database Professional Program, has a Testout PC pro Certification and finished his associate's in specialized technology for graphics now web.</p>
+<p>born and raised in Pennsylvania, Graduate of ErieIT in Erie with my Network Database Professional Program. <Br>
+Has a Testout PC pro Certification and finished his associate's in specialized technology for graphics now web.</p>
 <p>I was involved in Erie IT since 2015 and was a part time student for graphic design, my main interest was/is 3D modeling, after my graduation I've decided to take on the task of Network Database Professional
 I am mainly interested in troubleshooting computers and devices, and have a growing interest in Active Directory since my admission there.</p>
 <p>Before hand my experience with computers goes back to the beginning of highschool; when I was just starting I decided to make a lame batch file and
