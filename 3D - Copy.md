@@ -1,0 +1,15 @@
+---
+layout: page
+title: 3D Renders
+subtitle: My 3D modeling gallery page
+description: My 3D modeling page
+gallery: gallery
+show_sidebar: false
+permalink: /icons/
+---
+
+<h2>Icon render for Leverage4Data</h2>
+
+{% include youtube.html video="eMfmjmXK6d8" %}
+
+My 3D page; feel free to take a look.
