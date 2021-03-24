@@ -1,6 +1,5 @@
 - title: Icon's page
   images:
     - link: ../icons/showcase/icon1.svg
-      large_link: ../icons/showcase/icon1.svg
       alt: iconpage
       description: The main icon for this site, will also post variants here.
