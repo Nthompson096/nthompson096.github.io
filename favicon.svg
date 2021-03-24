@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,7 +69,7 @@
        id="path843" />
     <text
        xml:space="preserve"
-       style="font-size:59.0818px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova, Normal';fill:#000000;fill-opacity:1;stroke-width:20.134"
+       style="font-size:53.3333px;line-height:1.25;font-family:'Proxima Nova';-inkscape-font-specification:'Proxima Nova, Normal';fill:#000000;fill-opacity:1;stroke-width:20.1335;stroke-miterlimit:4;stroke-dasharray:none"
        x="6.0431871"
        y="85.831169"
        id="text1412"><tspan
@@ -77,8 +77,10 @@
          id="tspan1410"
          x="6.0431871"
          y="85.831169"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.0818px;font-family:'Proxima Nova Alt';-inkscape-font-specification:'Proxima Nova Alt, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:20.134">N<tspan
-   style="font-size:43.0818px"
-   id="tspan847">XT</tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:20.1335;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-size:64px"
+           id="tspan864">N</tspan><tspan
+           style="font-size:42.6667px"
+           id="tspan860">XT</tspan></tspan></text>
   </g>
 </svg>
