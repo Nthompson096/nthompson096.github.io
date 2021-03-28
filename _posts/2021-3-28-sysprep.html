@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Proxmox and Sysprep, networking."
+date:   2021-3-28 7:15 PM
+categories: Virtualization, Microsoft, Sysprep
+summary: |-
+      <p>Sysprep with windows server 2019 and proxmox networking.</p>
+
+description: "Sysprep with windows server 2019 and proxmox networking."
+published: true
+---
+<body>
+<h1>Proxmox and Sysprep, networking:</h1>
+<p>
+So as it turns out I forget a few feature's about sysprepping on windows, with sysprep the evaluation (server) time is still active so it is best to just make an empty computer; and create a template from there.
+<br>
+<code> sysprep /generalize /shutdown /oobe </code> <br>
+The reason why I'd create a sysprep image in the first place is to create new UUID (Universally Unique Id) for hard drives, new SID (Security Identifier), <br>
+otherwise windows will detect the same virtual hardware to the virtual labs; for windows 10 however I'd be
+perfectly fine. <br>
+The real reason for this is probably due to Microsoft anti-piracy measures and to make sure people don't use the tools given to them for an unlimited amount of sysprep time, otherwise Microsoft would probably go out of business. <br>
+You'd also Have to be careful on how many times you'd sysprep; 3 times is usually the max after that you'd have to start over.
+</p>
+<p>
+Also I would also like to discuss some networking stuff, apparently If i give my server a host only nic while it was active it would give me multiple addresses. <br>
+To fix this it would be an idea to release the network address, power off the server and connect the nic; then power it on and log in. <br>
+You should be able to get an APPIA address.
+</p>
+<p>
+The best workaround for this in proxmox is to create an empty vm with everything you'd need, convert it into a template and be all set from there.
+</p>
+
+<p><b>Pros of doing this is:</b></p>
+<ul>
+  <li>No evaluation time</li>
+<li>Still have the virtual hardware you'd need (Vhd's, virtual nics, etc)</li>
+<li>Start out clean</li>
+</ul>
+
+<p><b>Cons:</b><p>
+
+<ul>
+  <li>Windows is not installed so no fast deployment, same with any apps (start out clean)</li>
+  <li>you will NOT have anything pre-installed, you'd have to start fresh (including updates, server names, etc)</li>
+</ul>
+
+
+<p>Luckily I have a SMB-server on manjaro, it can be any Linux distro if you don't care about package managers or minimalism; basically you can use a file sharing server (FTP, SMB, SFTP "my fav")
+and place any config templates or powershell commands there (just be sure to name them and set <code>powershell.exe -ExecutionPolicy Bypass)</code> when executing powershell in cmd.</p>
+</body>
