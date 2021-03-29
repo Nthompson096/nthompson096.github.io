@@ -22,5 +22,4 @@ published: true
 This chart I've linked here should help along with any references I searched up myself.</p> <br>
 <p> Also made a embedded chart with an Iframe here:</p>
 <iframe width='100%' height='500' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGLJm0o-LnLqIy8Nfufy9Q8JX4P3IJI9negj9FwiGzM8yFyahKuEwiczpDFrWGzw/pubhtml?gid=992375867&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-<iframe width='100%' height='500' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGLJm0o-LnLqIy8Nfufy9Q8JX4P3IJI9negj9FwiGzM8yFyahKuEwiczpDFrWGzw/pubhtml?gid=290589874&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </body>
