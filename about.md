@@ -28,7 +28,7 @@ hero_image: /img/floppy.png
 
 #### Certifications:
 
-* Certified PC pro A+
+* Certified PC pro
 
 #### Honor Awards:
 * EIT Multiple High Honors awards
